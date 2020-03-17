@@ -1,2 +1,0 @@
-# FirstNodeApp
-Created with CodeSandbox
